@@ -18,7 +18,7 @@ namespace BulkyRazor_Temp.Pages.Categories
             _db = db;
         }
         public void OnGet()
-        {
+        { 
 
         }
         public IActionResult OnPost()
